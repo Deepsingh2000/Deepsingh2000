@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Deepsingh2000
-- 👀 I’m interested in Data science
-- 🌱 I’m currently pursuing Masters in Computer Application
+- 👀 I’m interested in Machine Learning and Data science
+- 🌱 I have completed Masters in Computer Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 9996483654
 
