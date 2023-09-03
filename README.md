@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Deepsingh2000
+- 👋 Hi, I’m student
 - 👀 I’m interested in Machine Learning and Data science
 - 🌱 I have completed Masters in Computer Application
 - 💞️ I’m looking to collaborate on ...
